@@ -127,6 +127,7 @@ aside img {
 }
 /*Benefits section end*/
 
+/*Footer changes start*/
 footer {
     padding: 30px;
     clear: both;
@@ -137,4 +138,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
-
+/*Footer changes end*/
